@@ -1,5 +1,3 @@
-
-
 # 💫 About Me:
 
 Hey there! I'm Lukas, a Computer Science Student based in Germany.
@@ -20,24 +18,13 @@ Hey there! I'm Lukas, a Computer Science Student based in Germany.
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 
-<div align="center">
-  <!-- Random Dev Quote -->
-  <div style="display: inline-block; width: 50%;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  </div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  <!-- Random Dev Meme -->
-  <div style="display: inline-block; width: 50%;">
-    <img src="https://randommeme-five.vercel.app/" style="height: 400px;" />
-  </div>
-</div>
-
-
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 [![](https://visitcount.itsvg.in/api?id=Ohboy166&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
-
 ---
-
-
-</div>
+</div> 
 
