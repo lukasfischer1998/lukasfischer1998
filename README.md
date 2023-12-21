@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ... <br>📚 I'm currently learning C, C++, Gtk Framework, Low Level Programming<br>🎯 Goals: Finish Uni i guess^^<br>🎲 Fun fact: The letter designation "C" was chosen as a continuation from the programming language "B," which was developed at Bell Laboratories.</p>
+<p align="left">✨ Creating bugs since 2020 <br>📚 I'm currently learning C, C++, Gtk Framework, Low Level Programming<br>🎯 Goals: Finish Uni i guess^^<br>🎲 Fun fact: The letter designation "C" was chosen as a continuation from the programming language "B," which was developed at Bell Laboratories.</p>
 
 ###
 
