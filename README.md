@@ -43,7 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=Ohboy166.Ohboy166)](https://github.com/Ohboy166)
 
 
 ###
