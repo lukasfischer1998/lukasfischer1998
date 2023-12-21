@@ -26,10 +26,9 @@ Hey there! I'm Lukas, a Computer Science Student based in Germany.
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+[![](https://visitcount.itsvg.in/api?id=Ohboy166&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
 ---
 
 
-
-
 </div>
-[![](https://visitcount.itsvg.in/api?id=Ohboy166&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
+
