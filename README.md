@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
 
 Hey there! I'm Lukas, a Computer Science Student based in Germany.
@@ -9,8 +11,6 @@ Hey there! I'm Lukas, a Computer Science Student based in Germany.
 🎯 My immediate goal is to successfully complete my university studies. Meanwhile, I find profound fascination in the intricate world of programming.
 
 💡 Fun fact: Did you know that the letter designation "C" was chosen as a continuation from the programming language "B," developed at Bell Laboratories?
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oneandonlylukas) 
@@ -28,3 +28,5 @@ Hey there! I'm Lukas, a Computer Science Student based in Germany.
 [![](https://visitcount.itsvg.in/api?id=Ohboy166&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
