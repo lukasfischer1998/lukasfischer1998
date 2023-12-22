@@ -67,7 +67,11 @@
 </div>
 
 ###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+###
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ohboy166.Ohboy166&left_color=cadetblue&right_color=darkcyan&left_text=People%20who%20looked%20at%20this%20mess"  />
 </div>
