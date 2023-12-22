@@ -65,16 +65,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
-
-###
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 ###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ohboy166.Ohboy166&left_color=cadetblue&right_color=darkcyan&left_text=People%20who%20looked%20at%20this%20mess"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ohboy166.Ohboy166&left_color=cadetblue&right_color=darkcyan&left_text=People%20who%20came%20here:"  />
 </div>
 
 ###
-
