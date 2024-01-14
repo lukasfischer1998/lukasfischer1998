@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Hey there! I'm Lukas, a Computer Science Student based in Germany.<br><br>🐞 I've been debugging since 2020 and continually embracing new challenges and learning experiences.<br><br>📚 Currently, I'm dedicated to mastering C, C++, and delving into the world of the Gtk Framework and Low-Level Programming.<br><br>🎯 My immediate goal is to successfully complete my university studies. Meanwhile, I find profound fascination in the intricate world of programming.<br><br>💡 Fun fact: Did you know that the letter designation "C" was chosen as a continuation from the programming language "B," developed at Bell Laboratories?</p>
+<p align="center">Hey there! I'm Lukas, a Computer Science Student based in Germany.<br><br>🐞 I've been debugging since 2019 and continually embracing new challenges and learning experiences.<br><br>📚 Currently, I'm dedicated to mastering C, C++, and delving into the world of the Gtk Framework and Low-Level Programming.<br><br>🎯 My immediate goal is to successfully complete my university studies. Meanwhile, I find profound fascination in the intricate world of programming.<br><br>💡 Fun fact: Did you know that the letter designation "C" was chosen as a continuation from the programming language "B," developed at Bell Laboratories?</p>
 
 ###
 
