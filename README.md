@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools i've work/ed with</h3>
+<h3 align="left">🛠 Languages and tools i've work/ed with</h3>
 
 ###
 
