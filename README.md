@@ -98,8 +98,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="40" alt="Elastic Search"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height="40" alt="MariaDB"  />
 </div>
 
 ###
