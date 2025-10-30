@@ -101,9 +101,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lukasfischer1998/count.svg?"  />
-</div>
-
-###
